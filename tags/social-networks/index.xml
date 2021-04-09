@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Networks | Harshavardhan P Kamarthi</title>
+    <link>/tags/social-networks/</link>
+      <atom:link href="/tags/social-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Networks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 May 2020 23:24:32 +0530</lastBuildDate>
+    <image>
+      <url>/images/logo_huc29ee8a91ebbeb48301cf9501abfe09c_47350_300x300_fit_lanczos_2.png</url>
+      <title>Social Networks</title>
+      <link>/tags/social-networks/</link>
+    </image>
+    
+    <item>
+      <title>Influence maximization in unknown social networks: Learning Policies for Effective Graph Sampling</title>
+      <link>/publication/graph-rl/</link>
+      <pubDate>Sat, 30 May 2020 23:24:32 +0530</pubDate>
+      <guid>/publication/graph-rl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

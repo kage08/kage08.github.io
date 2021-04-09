@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Harshavardhan P Kamarthi</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 May 2020 23:24:32 +0530</lastBuildDate>
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sat, 30 May 2020 23:24:32 +0530</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Harsha. I&amp;rsquo;m a final year Dual Degree student in 
+&lt;a href=&#34;https://www.cse.iitm.ac.in&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Computer Science and Engineering&lt;/a&gt;
+ at 
+&lt;a href=&#34;https://www.iitm.ac.in&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indian Institute of Technology Madras&lt;/a&gt;
+. I am affiliated to RISE lab and 
+&lt;a href=&#34;https://rbc-dsai.iitm.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robert Bosch Centre for Data Science and AI&lt;/a&gt;
+. I am fortunate to have worked with 
+&lt;a href=&#34;https://www.cse.iitm.ac.in/~ravi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Balaraman Ravindran&lt;/a&gt;
+ (my current Masters advisor) and 
+&lt;a href=&#34;https://www.cse.iitm.ac.in/~sutanuc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Sutanu Chakraborti&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;My research interests revolves around the fields of Deep Reinforcement Learning and Natural Language Processing and I am currently looking for PhD oppotunities relevant to my interests.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Balaraman Ravindran</title>
+      <link>/authors/balaraman-ravindran/</link>
+      <pubDate>Sat, 30 May 2020 23:24:32 +0530</pubDate>
+      <guid>/authors/balaraman-ravindran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bryan Wilder</title>
+      <link>/authors/bryan-wilder/</link>
+      <pubDate>Sat, 30 May 2020 23:24:32 +0530</pubDate>
+      <guid>/authors/bryan-wilder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milind Tambe</title>
+      <link>/authors/milind-tambe/</link>
+      <pubDate>Sat, 30 May 2020 23:24:32 +0530</pubDate>
+      <guid>/authors/milind-tambe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Priyesh Vijayan</title>
+      <link>/authors/priyesh-vijayan/</link>
+      <pubDate>Sat, 30 May 2020 23:24:32 +0530</pubDate>
+      <guid>/authors/priyesh-vijayan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aakash Srinivasan</title>
+      <link>/authors/aakash-srinivasan/</link>
+      <pubDate>Sat, 30 Nov 2019 23:45:16 +0530</pubDate>
+      <guid>/authors/aakash-srinivasan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devi Ganesan</title>
+      <link>/authors/devi-ganesan/</link>
+      <pubDate>Sat, 30 Nov 2019 23:45:16 +0530</pubDate>
+      <guid>/authors/devi-ganesan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sutanu Chakraborti</title>
+      <link>/authors/sutanu-chakraborti/</link>
+      <pubDate>Sat, 30 Nov 2019 23:45:16 +0530</pubDate>
+      <guid>/authors/sutanu-chakraborti/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

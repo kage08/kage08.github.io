@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MLP | Harshavardhan P Kamarthi</title>
+    <link>/tags/mlp/</link>
+      <atom:link href="/tags/mlp/index.xml" rel="self" type="application/rss+xml" />
+    <description>MLP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/logo_huc29ee8a91ebbeb48301cf9501abfe09c_47350_300x300_fit_lanczos_2.png</url>
+      <title>MLP</title>
+      <link>/tags/mlp/</link>
+    </image>
+    
+    <item>
+      <title>Integrating Lexical Knowledge in Word Embeddings using Sprinkling and Retrofitting</title>
+      <link>/publication/sprinkle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/sprinkle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

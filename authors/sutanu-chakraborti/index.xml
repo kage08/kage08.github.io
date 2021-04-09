@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sutanu Chakraborti | Harshavardhan P Kamarthi</title>
+    <link>/authors/sutanu-chakraborti/</link>
+      <atom:link href="/authors/sutanu-chakraborti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sutanu Chakraborti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 Nov 2019 23:45:16 +0530</lastBuildDate>
+    <item>
+      <title>Integrating Lexical Knowledge in Word Embeddings using Sprinkling and Retrofitting</title>
+      <link>/publication/sprinkle/</link>
+      <pubDate>Sat, 30 Nov 2019 23:45:16 +0530</pubDate>
+      <guid>/publication/sprinkle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

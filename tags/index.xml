@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Harshavardhan P Kamarthi</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 May 2020 23:24:32 +0530</lastBuildDate>
+    <image>
+      <url>/images/logo_huc29ee8a91ebbeb48301cf9501abfe09c_47350_300x300_fit_lanczos_2.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Deepwalk</title>
+      <link>/tags/deepwalk/</link>
+      <pubDate>Sat, 30 May 2020 23:24:32 +0530</pubDate>
+      <guid>/tags/deepwalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DQN</title>
+      <link>/tags/dqn/</link>
+      <pubDate>Sat, 30 May 2020 23:24:32 +0530</pubDate>
+      <guid>/tags/dqn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GCN</title>
+      <link>/tags/gcn/</link>
+      <pubDate>Sat, 30 May 2020 23:24:32 +0530</pubDate>
+      <guid>/tags/gcn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Networks</title>
+      <link>/tags/social-networks/</link>
+      <pubDate>Sat, 30 May 2020 23:24:32 +0530</pubDate>
+      <guid>/tags/social-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>/tags/nlp/</link>
+      <pubDate>Sat, 30 Nov 2019 23:45:16 +0530</pubDate>
+      <guid>/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrofitting</title>
+      <link>/tags/retrofitting/</link>
+      <pubDate>Sat, 30 Nov 2019 23:45:16 +0530</pubDate>
+      <guid>/tags/retrofitting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sprinkling</title>
+      <link>/tags/sprinkling/</link>
+      <pubDate>Sat, 30 Nov 2019 23:45:16 +0530</pubDate>
+      <guid>/tags/sprinkling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVD</title>
+      <link>/tags/svd/</link>
+      <pubDate>Sat, 30 Nov 2019 23:45:16 +0530</pubDate>
+      <guid>/tags/svd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

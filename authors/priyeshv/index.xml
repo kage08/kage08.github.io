@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harshavardhan P Kamarthi</title>
+    <link>/authors/priyeshv/</link>
+      <atom:link href="/authors/priyeshv/index.xml" rel="self" type="application/rss+xml" />
+    <description>Harshavardhan P Kamarthi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <item>
+      <title>Influence maximization in unknown social networks: Learning Policies for Effective Graph Sampling</title>
+      <link>/publication/graphrl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/graphrl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
