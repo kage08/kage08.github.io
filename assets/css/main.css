@@ -26,6 +26,10 @@ body.sticky-bottom-footer { padding-bottom: 0; }
 /****************************************************************************** Publications */
 /***************************************************************************** Projects */
 /******************************************************************************* Styles for the base elements of the theme. */
+b { font-weight: bold; }
+
+em { font-style: italic; }
+
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong { color: var(--global-text-color); font-family: Arial, Helvetica, sans-serif; }
 
 a, table.table a { color: var(--global-theme-color); }
