@@ -1,6 +1,6 @@
 /******************************************************************************* Variables used throughout the theme. To adjust anything, simply edit the variables below and rebuild the theme. */
 /******************************************************************************* Themes */
-:root { --global-bg-color: #ffffff; --global-code-bg-color: rgba(181, 9, 172, 0.05); --global-text-color: #000000; --global-text-color-light: #828282; --global-theme-color: #B509AC; --global-hover-color: #B509AC; --global-footer-bg-color: #424242; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #ffffff; --global-distill-app-color: #828282; }
+:root { --global-bg-color: #ffffff; --global-code-bg-color: rgba(181, 9, 172, 0.05); --global-text-color: #000000; --global-text-color-light: #828282; --global-theme-color: #0076df; --global-hover-color: #B509AC; --global-footer-bg-color: #424242; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #ffffff; --global-distill-app-color: #828282; }
 
 :root .fa-sun { display: none; }
 
@@ -26,7 +26,7 @@ body.sticky-bottom-footer { padding-bottom: 0; }
 /****************************************************************************** Publications */
 /***************************************************************************** Projects */
 /******************************************************************************* Styles for the base elements of the theme. */
-p, h1, h2, h3, h4, h5, h6, em, div, span, strong { color: var(--global-text-color); }
+p, h1, h2, h3, h4, h5, h6, em, div, span, strong { color: var(--global-text-color); font-family: Arial, Helvetica, sans-serif; }
 
 a, table.table a { color: var(--global-theme-color); }
 
