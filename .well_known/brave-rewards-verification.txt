@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: harsha-pk.com
-Token: 34e5602106981443c13937735f42a7dc569bc0b638bb7f174ac0ca77a6cd0dde
