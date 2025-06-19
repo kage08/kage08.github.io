@@ -1,16 +1,2 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-19T11:22:01-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Harshavardhan Kamarthi</title><subtitle>Harsha's &quot;About&quot; page.
-</subtitle><entry><title type="html">First post</title><link href="http://localhost:4000/blog/2021/first-post/" rel="alternate" type="text/html" title="First post" /><published>2021-10-26T17:01:00-04:00</published><updated>2021-10-26T17:01:00-04:00</updated><id>http://localhost:4000/blog/2021/first-post</id><content type="html" xml:base="http://localhost:4000/blog/2021/first-post/"><![CDATA[<p>A starter blog. Hopefully more to come soon!</p>
-
-<p>I wanted to post something random as my first post. So here goes…</p>
-
-<h2 id="game-of-life">Game of life</h2>
-
-<p>A simple widget simulating <em>Convay’s Game of Life</em>.</p>
-
-<iframe src="https://www.harsha-pk.com/wasm-game-of-life/" title="Convay's Game of Life" width="800" height="800"></iframe>
-
-<p>The web app is based on web-assembly. I followed the tutorial from <a href="https://rustwasm.github.io/docs/book/introduction.html">here</a> and
-made changes to deploy it using Github pages <a href="https://www.harsha-pk.com/wasm-game-of-life/">here</a> using <code class="language-plaintext highlighter-rouge">webpack</code> for bundling and <code class="language-plaintext highlighter-rouge">gh-pages</code> package for
-deployment.</p>
-
-<p>Do check out the <a href="https://github.com/kage08/wasm-game-of-life">repository</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Sample post]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-19T12:34:00-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Harshavardhan Kamarthi</title><subtitle>Harsha's &quot;About&quot; page.
+</subtitle></feed>
